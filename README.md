@@ -11,5 +11,9 @@ npm install
 npm run run dev
 ```
 
+### View the application here
+https://young-plateau-38957.herokuapp.com
+
+
 #### By Debbie O'Brien
 14 April 2018
